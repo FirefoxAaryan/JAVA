@@ -8,4 +8,3 @@ class Input {
         System.out.println("Your marks are : " + marks);
     }
 }
-

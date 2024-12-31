@@ -1,5 +1,5 @@
 public class SwitchSyntax {
-    /*publuc static void main(String[] args){
+    /*public static void main(String[] args){
         switch (value){
             case 1 : 
                 break;

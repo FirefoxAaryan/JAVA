@@ -24,6 +24,6 @@ public class Factorial{
             System.out.println("There are no factorials for negative numbers !");
             return 0;
         }
-    return factorial;
+        return factorial;
     }
 }

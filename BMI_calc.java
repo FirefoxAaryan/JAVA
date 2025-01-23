@@ -22,5 +22,6 @@ public class BMI_calc{
         else{
             System.out.println("You are overweight!");
         }
+        sc.close();
     }
 }

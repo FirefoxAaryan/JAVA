@@ -15,6 +15,7 @@ public class Array_Intro{
         System.out.print("Marks of the student are : ");
         for(int i = 0; i < 3; i++){
             System.out.print(marks[i]+" ");
+            in.close();
         }
     }
 }

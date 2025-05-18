@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Bank{
-  static class bank{
+    static class bank{
     String Name;
     int Acc_num;
     int Balance;
